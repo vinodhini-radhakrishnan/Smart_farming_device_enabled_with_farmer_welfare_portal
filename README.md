@@ -3,6 +3,7 @@
   This idea has been prototyped in a hackathon.
   
   
-##Developed_prototype
-![alt-text]
+## Developed_prototype
+![alt-text](https://github.com/vinodhini-radhakrishnan/Smart_farming_device_enabled_with_farmer_welfare_portal/blob/master/untitled.png)
+![alt-text](
   
