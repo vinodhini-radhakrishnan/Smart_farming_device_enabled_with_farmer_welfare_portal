@@ -12,3 +12,9 @@
 ![alt-text](https://github.com/vinodhini-radhakrishnan/Smart_farming_device_enabled_with_farmer_welfare_portal/blob/master/Block%20Diagram%20EDEN.png)
   
 ## Circuit_connection
+
+![alt-text](https://github.com/vinodhini-radhakrishnan/Smart_farming_device_enabled_with_farmer_welfare_portal/blob/master/circuit%20diagram_bb.png)
+
+The code for sensors connected with arduino is given in .ino file.
+The machiine learning part for pest detection is given as zip file.
+
