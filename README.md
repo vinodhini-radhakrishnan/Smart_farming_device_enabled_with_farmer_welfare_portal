@@ -5,5 +5,7 @@
   
 ## Developed_prototype
 ![alt-text](https://github.com/vinodhini-radhakrishnan/Smart_farming_device_enabled_with_farmer_welfare_portal/blob/master/untitled.png)
-![alt-text](
+![alt-text](https://github.com/vinodhini-radhakrishnan/Smart_farming_device_enabled_with_farmer_welfare_portal/blob/master/wHOLE.png)
+
+## Block_diagram
   
