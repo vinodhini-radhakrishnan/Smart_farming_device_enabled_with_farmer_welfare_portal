@@ -1,0 +1,1 @@
+# Smart_farming_device_enabled_with_farmer_welfare_portal
