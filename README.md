@@ -8,4 +8,6 @@
 ![alt-text](https://github.com/vinodhini-radhakrishnan/Smart_farming_device_enabled_with_farmer_welfare_portal/blob/master/wHOLE.png)
 
 ## Block_diagram
+
+![alt-text](https://github.com/vinodhini-radhakrishnan/Smart_farming_device_enabled_with_farmer_welfare_portal/blob/master/Block%20Diagram%20EDEN.png)
   
